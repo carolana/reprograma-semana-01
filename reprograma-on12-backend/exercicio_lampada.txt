@@ -1,0 +1,14 @@
+exericio_lampada.txt
+
+Dado que ligo o interruptor
+    Se a lâmpada estiver queimada
+        Então pego uma lâmpada nova
+        E pego uma escada
+        E posiciono a escada embaixo da lâmpada
+        E subo na escada
+        E retiro a lâmpada velha
+        E coloco a lâmpada nova
+        E desço da escada
+        E ligo interruptor novamente
+        Então a lâmpada deverá ascender
+    Senão, sigo a vida.

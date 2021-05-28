@@ -1,0 +1,24 @@
+exercicio_pneu_furado.txt
+
+Dado que o pneu do carro está furado
+        Se você possui um estepe
+            Pegue o macado e a chave de roda
+            Encaixe a chave de roda na porca da roda com o pneu furado
+            E force o pé na posição anti-horária para afrouxar o parafuso
+                Repita isso com os 4 parafusos
+            Pegue o macaco e a chave de roda
+            Posicione o macaco na beiradinha de baixo do carro
+            E rode a chave de roda no sentido anti-horário para levantar o carro
+            Coloque o estepe embaixo do carro 
+            Com o macaco suspenso e roda fora do chão, retire a roda do carro
+            Use a chave de roda para terminar de desapertar os parafusos e retirar a roda
+            Retire a roda do estepe debaixo do carro e encaixe-a no carro
+            Coloque os 4 parafusos com a mão e aperte só um pouco com a chave de roda para firmar a roda no carro
+            Retire a roda que estava servindo como calço
+            Gire a chave de roda no sentido horário para descer o macaco
+            Para apertar os parafusos, use a chave de roda, apertando-a com o pé no sentido anti-horário para que os 4 parafusos fiquem bem firmes
+            Guarde o roda com o pneu furado no lugar do estepe
+            Lave as mãos
+            Siga viagem
+        Senão, ligue para o seguro
+

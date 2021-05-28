@@ -1,0 +1,6 @@
+exercicio_par_ou_impar.txt
+
+recebe um inteiro numero
+se o resto da divisão ((numero/2) = 0))
+    número é par 
+senão, numero é ímpar

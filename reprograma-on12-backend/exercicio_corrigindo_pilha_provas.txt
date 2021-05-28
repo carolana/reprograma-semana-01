@@ -1,0 +1,24 @@
+corrigindo_pilha_provas.txt
+
+Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida)
+de provas, com 5 questões cada.
+
+Se você é um professor
+    E possui provas para serem corrigidas 
+        Pegue a prova e corrija a questão número UM
+            Se o aluno acertou, coloque em caneta azul o valor 1,0 ponto
+                Senão, coloque em caneta vermelho o valor 0 ponto
+        Corrija a questão número DOIS
+            Se o aluno acertou, coloque em caneta azul o valor 1,0 ponto
+                Senão, coloque em caneta vermelho o valor 0 ponto
+        Corrija a questão número TRÊS
+            Se o aluno acertou, coloque em caneta azul o valor 1,0 ponto
+                Senão, coloque em caneta vermelho o valor 0 ponto
+            Corrija a questão número QUATRO
+            Se o aluno acertou, coloque em caneta azul o valor 1,0 ponto
+                Senão, coloque em caneta vermelho o valor 0 ponto
+        Corrija a questão número CINCO
+            Se o aluno acertou, coloque em caneta azul o valor 1,0 ponto
+                Senão, coloque em caneta vermelho o valor 0 ponto
+        Repita o primeiro passo
+Se naõ for professor, não terá provas a ser corrigidas!

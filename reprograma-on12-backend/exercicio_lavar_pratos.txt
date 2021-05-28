@@ -1,0 +1,12 @@
+exercicio_lavar_pratos.txt
+
+Dado que tenho pratos sujos
+        E a lava pratos está ligada na energia
+            Ao abrir a porta da lava-louças
+            E inserir os pratos nas grades de organização
+            Quando coloco o detergente/sabão no dispenser
+            E aperto o botão ligar
+            Então a máquina começa a jogar jatos de água sobre os pratos sujos
+            E ao ouvir o botão desligar
+            E abrir a porta da lava pratos
+            Então os pratos devem estar limpos

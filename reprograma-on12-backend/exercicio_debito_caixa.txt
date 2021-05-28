@@ -1,0 +1,17 @@
+exercicio_debito_caixa.txt
+
+Dado que você possui uma conta no banco
+    Se você tiver o cartão do banco
+        E houver um caixa eletronico próximo a você
+            Insira o cartão do banco no caixa eletronico
+            Clique em Confirma
+            Clique no opção Saque conta corrente
+            Informe o valor que deseja debitar da conta
+            Clique em Confirma
+            Retire o cartão do caixa eletronico
+            Aguarde até que as cédulas saia da boca do caixa
+            Pegue as cédulas
+            Confirme se o valor das células é o mesmo ao sigitado anteriormente
+                Se for, pegue o extrato 
+                Senão, procure um agência do banco
+    Senão, não tem como realizar um débito no caixa eletronico.

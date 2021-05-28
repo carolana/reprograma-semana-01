@@ -1,0 +1,10 @@
+exercicio_calculo_novo_salario.txt
+
+receba um real salario 
+    se salario é menor ou igual a 500
+        novo-salario é salario*0.2
+            mostre "seu novo salario é" + novo-salario 
+    senão
+        novo-salario2 é salario*0.1
+            mostre "seu novo salario é" + novo-salario
+

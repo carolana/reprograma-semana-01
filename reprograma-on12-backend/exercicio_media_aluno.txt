@@ -1,0 +1,10 @@
+exercicio_media_aluno.txt
+
+
+receba um real nota1
+receba um real nota2
+media é igual a (nota1+nota2)/2
+se media for maior ou igual a 6
+    aluno aprovado
+senão
+    aluno reprovado

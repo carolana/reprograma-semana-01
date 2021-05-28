@@ -1,0 +1,7 @@
+exercicio_soma_tres_numeros.txt
+
+Receba um inteiro numero1
+Recebe um inteiro numero2
+Recebe um inteiro numero3
+Resultado é igual a (numero1+numero2+numero3)
+Mostre Resultado

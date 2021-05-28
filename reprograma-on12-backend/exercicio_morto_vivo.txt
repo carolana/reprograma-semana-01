@@ -1,0 +1,13 @@
+exercicio_morto_vivo.txt
+
+Dado que há crianças na brincadeira
+E um adulto dando comandos de Morto! Vivo!
+Quando disser “VIVO” as crianças devem ficar de pé
+    Se a criança ficar Morto
+        dEverá sair da brincadeira
+    Senão, segue a brincadeira
+Quando disser “MORTO” as crianças devem ficar agachadas
+    Se a criança ficar Vivo
+        Deverá sair da brincadeira
+    Senão, segue a brincadeira
+Repetir até que reste um vencedor
